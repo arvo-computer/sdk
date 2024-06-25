@@ -1,5 +1,5 @@
-ARVO.Software
-=============
+AR.VO Software
+==============
 
 Platforms
 ---------
